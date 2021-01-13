@@ -5344,7 +5344,19 @@ Two other measurements, or information criterion, are popular for use in the mod
 
 <br/>
 
+--
 
+#### Model Selection <a href="javascript:showhide('Selection')" style="font-size:.6em;color:skyblue;">(Expand)</a>
+
+<span class="expand-caption">Selecting the best model to fit your data...</span>
+
+<div id="selection" style="display:none;">
+
+</div>
+
+<br/>
+
+--
 
 #### Model Validation <a href="javascript:showhide('validation')" style="font-size:.6em;color:skyblue;">(Expand)</a>
 
