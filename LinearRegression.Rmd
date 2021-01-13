@@ -5344,19 +5344,27 @@ Two other measurements, or information criterion, are popular for use in the mod
 
 <br/>
 
---
 
-#### Model Selection <a href="javascript:showhide('Selection')" style="font-size:.6em;color:skyblue;">(Expand)</a>
+
+#### Model Selection <a href="javascript:showhide('selection')" style="font-size:.6em;color:skyblue;">(Expand)</a>
 
 <span class="expand-caption">Selecting the best model to fit your data...</span>
 
 <div id="selection" style="display:none;">
 
+Some tips that I remember being really helpful:
+
+- Coloring by categorical variables
+- Pairs plots, pairs plots, pairs plots
+- Using the * when defining your lm, to include all the addition and interaction terms
+- Don't be afraid to group continuous variables into categorical variables if it helps your lm and makes sense
+
+
 </div>
 
 <br/>
 
---
+
 
 #### Model Validation <a href="javascript:showhide('validation')" style="font-size:.6em;color:skyblue;">(Expand)</a>
 
